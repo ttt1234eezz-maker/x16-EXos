@@ -1,7 +1,6 @@
 ; ==================================================================
 ; x16-PRos -- PAINT. Very simple paint program.
-; Tool modes: FREE / LINE / RECTANGLE
-; Clean architecture, Save-As only
+; Tool modes: FREE / LINE / REACT
 ; Copyright (C) 2025-2026 PRoX2011
 ; ==================================================================
 
